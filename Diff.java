@@ -6,5 +6,6 @@ public class Diff {
 		System.out.println("Diff is " + (a-b));
 		
 		// Comment here...
+		// What to do next...
 	}
 }
